@@ -1,0 +1,10 @@
+body {
+    width: 169px;
+    padding: 6px;
+}
+
+.button {
+    width: 100%;
+    height: 35px;
+    margin-top: 10px;
+}
